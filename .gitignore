@@ -20,7 +20,7 @@ sketch
 # End of https://www.toptal.com/developers/gitignore/api/react
 
 package-lock.json
-logo.svg
-favicon.ico
-logo192.png
-logo512.png
+client/src/logo.svg
+client/public/favicon.ico
+client/public/logo192.png
+client/public/logo512.png
