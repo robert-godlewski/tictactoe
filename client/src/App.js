@@ -3,14 +3,14 @@ import './App.css';
 
 // JS Components
 import Header from './components/Title';
-import Board from './components/Board';
+import BoardGame from './components/BoardGame';
 
 
 function App() {
   return (
     <div className="App">
       <Header/>
-      <Board/>
+      <BoardGame/>
     </div>
   );
 }
